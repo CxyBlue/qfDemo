@@ -1,0 +1,6 @@
+module Pods_qf4 {
+  umbrella header "Pods-qf4-umbrella.h"
+
+  export *
+  module * { export * }
+}

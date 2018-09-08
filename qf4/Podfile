@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+target "qf4" do
+pod 'Socket.IO-Client-Swift', '~> 13.3.0'
+end
+
